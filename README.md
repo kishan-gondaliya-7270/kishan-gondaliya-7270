@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Kishan Gondaliya
 
-<!--
-**kishan-gondaliya-7270/kishan-gondaliya-7270** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a **Senior Quality Assurance Engineer** with over **3 years** of experience in **SaaS product testing**, specializing in **Quality Engineering Management, test automation, CI/CD implementation, and performance optimization**. 
 
-Here are some ideas to get you started:
+## 📌 Skills
+✔ **Automation Testing** - Playwright, Pytest, Selenium, WebdriverIO  
+✔ **Performance Testing** - JMeter, BlazeMeter  
+✔ **API Testing** - Postman, REST API, GraphQL  
+✔ **CI/CD & DevOps** - GitHub Actions, Jenkins, Docker  
+✔ **Programming** - Python, TypeScript, JavaScript  
+✔ **Accessibility & Security Compliance** - WCAG, GDPR  
+✔ **Test Management** - JIRA, TestRail  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- 🔗 [Portfolio](https://kishan-gondaliya-7270.vercel.app/)  
+- 🔗 [GitHub](https://github.com/kishan-gondaliya-7270)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kishan-gondaliya/)  
+- 🔗 [WordPress Profile](https://profiles.wordpress.org/kishu7270/)
+- 📧 Email: kishangondaliya7270@gmail.com  
+
+Let's connect and talk about **QA, automation, and tech innovations**! 🚀
